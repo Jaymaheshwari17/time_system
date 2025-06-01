@@ -160,7 +160,7 @@
             alert(response.message);
             fetchProjects();
         })
-        .catch(() => alert('Failed to delete project the'));
+        .catch(() => alert('Failed to delete project the diiiii'));
     }
 
     // Initial data load
